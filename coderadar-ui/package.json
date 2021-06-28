@@ -50,7 +50,7 @@
     "ngrx": "0.0.1-security",
     "ngx-drag-scroll": "^8.0.0-beta.2",
     "ngx-pinch-zoom": "^2.3.4",
-    "prismjs": "^1.23.0",
+    "prismjs": "^1.24.0",
     "reselect": "^4.0.0",
     "rxjs": "~6.4.0",
     "three": "^0.103.0",
